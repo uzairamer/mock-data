@@ -1,0 +1,19 @@
+{
+    "pr_count": 69,
+    "additions": 1062,
+    "deletions": 66,
+    "repo_stats": [
+        {
+            "month": "October 2020",
+            "additions": 762,
+            "deletions": 46,
+            "pr_count": 46
+        },
+        {
+            "month": "November 2020",
+            "additions": 300,
+            "deletions": 20,
+            "pr_count": 23
+        }
+    ]
+}
